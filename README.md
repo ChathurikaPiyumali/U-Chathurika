@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **PYTHON**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++ , JAVA**
 
 
 <p align="left">
