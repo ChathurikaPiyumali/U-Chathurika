@@ -1,19 +1,34 @@
-<h1 align="center">Hi 👋, I'm Chathurika</h1>
-<h3 align="center">A passionate software engineer</h3>
+# Hi there, I'm Chathurika Piyumali 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=u-chathurika&label=Profile%20views&color=0e75b6&style=flat" alt="u-chathurika" /> </p>
+Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and continuous learning. Here's a little bit about me:
+
+## 🚀 About Me
+- 🔭 I’m currently working on various exciting projects in the fields of web development and data science.
+- 🌱 I’m currently learning advanced machine learning techniques and cloud computing.
+- 👯 I’m looking to collaborate on open-source projects that make a difference.
+- 🤔 I’m looking for help with deep learning and AI research.
+- 💬 Ask me about web development, Python, JavaScript, or anything tech-related!
+- 📫 How to reach me: [chathurika](chathurikapiyumali01@gmail.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a coffee enthusiast and love exploring new cafes!
+
+## 🛠️ Skills
+- **Programming Languages:** Python, JavaScript, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js, Express.js
+- **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure
+
+## 📈 GitHub Stats
+![Chathurika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChathurikaPiyumali&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathurikaPiyumali&layout=compact&theme=radical)
+
+## 🌐 Connect with Me
+- LinkedIn: [Chathurika Piyumali]([https://www.linkedin.com/in/chathurika-piyumali/](https://www.linkedin.com/in/chathurika-piyumali-10a937284/))
 
 
-
-- 🌱 I’m currently learning **PYTHON**
-
-- 💬 Ask me about **C++ , JAVA**
-
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Thank you for visiting my profile! Let's connect and create something amazing together. 😊
 
 
