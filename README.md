@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathurikaPiyumali&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-- LinkedIn: [Chathurika Piyumali]([https://www.linkedin.com/in/chathurika-piyumali/](https://www.linkedin.com/in/chathurika-piyumali-10a937284/))
+- LinkedIn: [https://www.linkedin.com/in/chathurika-piyumali/](https://www.linkedin.com/in/chathurika-piyumali-10a937284/)
 
 
 Thank you for visiting my profile! Let's connect and create something amazing together. 😊
